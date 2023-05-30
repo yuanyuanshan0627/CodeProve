@@ -1,4 +1,7 @@
 <!-- _coverpage.md -->
+<div style="text-align:center;">
+<img src="DM_20230530114814_003.svg" >
+</div>
 
 # 影子灰 de 面试记录
 

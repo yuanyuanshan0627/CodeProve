@@ -6,7 +6,7 @@
 
 - [HTML](commit/throttle.md)
 
-  - [**XHTML 和 HTML 有什么区别**](html/XHTMLorHTML.md.md)
+  - [**XHTML 和 HTML 有什么区别**](html/XHTMLorHTML.md)
   - [ **标准模式与兼容模式各有什么区别**](html/standard-compat-mode.md)
   - [ **什么是语义化的 HTML？**](html/semantization.md)
   - [ **简述一下你对 HTML 语义化的理解**](html/semantization2.md)
