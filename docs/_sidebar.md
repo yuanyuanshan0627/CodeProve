@@ -28,5 +28,9 @@
   - [ **css 优先级？**](css/csspriority.md)
   - [ **css 选择器有哪些**](css/cssselect.md)
 
+- 函数方法
+
+  - [ **时间戳转换**](js/formatTimestamp.md)
+
 - [JavaScript](commit/throttle.md)
 - [框架](commit/throttle.md)
